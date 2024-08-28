@@ -19,6 +19,15 @@ Este repositorio contiene todos los proyectos y ejercicios realizados durante mi
 - **Gestión del tiempo**: Optimización del tiempo para cumplir con las exigencias del bootcamp.
 - **Resiliencia**: Manejo de desafíos complejos y superación de obstáculos durante el aprendizaje.
 
+## 📊 Estadísticas
+
+Estas son mis estadísticas al finalizar la Piscina:
+
+- **Puntos**: Alcancé aproximadamente 76 puntos.
+- **Posición en el equipo**: Terminé aproximadamente en el puesto 13 dentro de mi equipo, Charmander.
+- **Nivel alcanzado**: Nivel 5 - 93%
+
+
 ## 🔥 Proyectos Destacados
 
 ### ⚡ Rush00
