@@ -2,7 +2,7 @@
 
 Este repositorio contiene todos los proyectos y ejercicios realizados durante mi participación en la Piscina de 42 Málaga. La Piscina es un bootcamp intensivo de 26 días donde los participantes desarrollan habilidades de programación y soft skills a través de una metodología de aprendizaje peer-to-peer, y que en caso de superarlo con éxito, se pasa al curso como estudiante oficialmente.
 
-## 🏫 Sobre 42 Málaga
+## 🏫 Sobre 42
 
 42 es una innovadora escuela de programación que ofrece un método de aprendizaje sin profesores, basado en la colaboración entre pares. La Piscina es la última fase del proceso de selección para acceder al curso completo, que se enfoca en el desarrollo de habilidades técnicas y personales necesarias para convertirse en un profesional de la tecnología.
 
