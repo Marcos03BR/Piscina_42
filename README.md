@@ -31,16 +31,12 @@ Estas son mis estadísticas al finalizar la Piscina:
 ## 🔥 Proyectos Destacados
 
 ### ⚡ Rush00
-Este proyecto fue realizado en equipo con [@hannhand](https://github.com/hannhand) y otra compañera.
 
 ### ⚡ Rush01
-Realizado junto a [@yuliu18](https://github.com/yuliu18) y otro compañero.
 
 ### ⚡ Rush02
-En este proyecto, trabajé con un compañero y una compañera.
 
 ### ⚡ BSQ
-Desarrollado en colaboración con [@Irene-Frias](https://github.com/Irene-Frias).
 
 ## ⚠️ ¡Aviso! 
 Por favor, evita copiar los códigos, e incluso ver códigos de fases más adelantadas de la piscina. Es parte de la experiencia ir descubriendo y enfrentando los desafíos según llegan. Además, tendrás que defender tus códigos al ser evaluado, por lo que no te haces ningún favor. ¡Disfruta del proceso, con calma, y aprendiendo! 🚀
